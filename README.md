@@ -25,3 +25,9 @@ Done.
 
 Problems faced
 Space running out in BBB.
+
+
+Step 2:-
+Downloading NextCloud and Unzipping it
+ ->wget https://download.nextcloud.com/server/releases/nextcloud-11.0.1.zip
+ ->unzip nextcloud-11.0.1.zip
