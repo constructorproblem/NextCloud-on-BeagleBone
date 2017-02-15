@@ -31,3 +31,14 @@ Step 2:-
 Downloading NextCloud and Unzipping it
  ->wget https://download.nextcloud.com/server/releases/nextcloud-11.0.1.zip
  ->unzip nextcloud-11.0.1.zip
+ 
+ 
+ 
+ PROBLEMS
+ Accidently ended up overwritting the eMMC.Lost all the important data and codes.No backup was taken.
+ 
+ 
+ New Steps:-
+ 
+ 1)Flashing a new OS in the BBB.For now.
+
