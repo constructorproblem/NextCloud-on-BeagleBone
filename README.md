@@ -63,6 +63,10 @@ route add default gw 192.168.7.1
 echo "nameserver 8.8.8.8" >> /etc/resolv.conf
 
 Moving to the start phase all over again 
+Done with the installation part of nextclod.
+Working on a shell script for all this to happen automatically.
+
+
 
 
 
