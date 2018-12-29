@@ -70,7 +70,12 @@ Moving to the start phase all over again
 Done with the installation part of nextclod.
 Working on a shell script for all this to happen automatically.
 
+Added a script to setup LAMP.
 
+Project was carried out as a part of my FOSS ( Free and open Source software) where I tried to setup NextCLoud on a Beagle bone black.
+
+It originally comes with a Raspberry-pi version, however, I took the system and tried running it on Beagle Bone Black Rev C. 
+It was successful in running on a Beagle bone black.
 
 
 
